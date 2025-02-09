@@ -72,6 +72,7 @@ Git이란 **분산형 버전 관리 시스템(Version Control System)** 의 한 
 깃허브의 업로드 과정은 이렇다.
 
 <br>
+<br>
 
 ### Working Directory
 
@@ -79,17 +80,23 @@ Git이란 **분산형 버전 관리 시스템(Version Control System)** 의 한 
 
 > 내 기준으로, 바탕화면의 OVERMIND 폴더가 해당된다.
 
+<br>
+
 ### Staging Area
 
 Local Repository에 저장하기 전에 저장되는 공간이다. 이 공간에서 프로젝트의 버전을 만들 수 있다.
 
 > 내 기준으로, VScode에서 변경 사항을 저장했을 때, 깃허브 데스크탑에서 보이는 변경 사항? 인 것 같다.
 
+<br>
+
 ### Local Repository
 
 변경 내역들과 함께 파일이 저장되는 공간이다. 프로젝트의 변경사항이 기록된다.
 
 > 내 기준으로, 깃허브 데스크탑에서 커밋을 진행했을 때 저장되는 곳이다.
+
+<br>
 
 ### Remote Repository
 
