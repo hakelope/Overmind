@@ -103,3 +103,27 @@ Local Repository에 저장하기 전에 저장되는 공간이다. 이 공간에
 **깃허브**에 해당되는, 온라인 상의 저장소이다.
 
 > 내 기준으로, 깃허브 데스크탑에서 커밋 후 푸쉬까지 했을 때 저장되는 곳이다.
+
+## 5. 용어
+
+### commit
+
+local Repository에 파일을 업로드 하는 것이다.
+
+> Staging Area -> Local Repository
+
+### push
+
+local Repository에서 Remote Repository로 갱신하는 것이다.
+
+> local Repository -> Remote Repository
+
+### pull
+
+Remote Repository에서 local Repository로 가져오는 것을 말한다. clone과 비슷하지만, local Repository와 Remote Repository가 연결되어 있어 일부 내용만을 동기화 시킬 때 사용한다.
+
+> Remote Repository -> local Repository
+
+### clone
+
+Remote Repository에서 local Repository로 가져오는 것을 말한다.pull과 비슷하지만, local Repository와 Remote Repository가 연결되어 있지 않은 초기 상태에서 사용한다.
